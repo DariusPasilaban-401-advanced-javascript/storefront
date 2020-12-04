@@ -11,4 +11,4 @@ const store = () => {
   return createStore(reducers, composeWithDevTools());
 };
 
-export default store();
+export default store;
